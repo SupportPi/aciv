@@ -1,7 +1,7 @@
 {
-  "name": "aiv",
+  "name": "aciv",
   "version": "1.0.0",
-  "main": "aiv.js",
+  "main": "aciv.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

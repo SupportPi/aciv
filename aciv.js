@@ -17,6 +17,7 @@ export default {
             if(!this.inViewport(elem) || this.usedElements.includes(elem))
                 return;
             this.usedElements.push(elem);
+            
             const animClass = elem.getAttribute('data-aiv');
             // If has Delay Attribute, sets a Timeout to Apply the Selected Class
             if(elem.hasAttribute('data-aiv-delay')){
