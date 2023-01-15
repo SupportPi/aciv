@@ -1,0 +1,16 @@
+{
+  "name": "aiv",
+  "version": "1.0.0",
+  "main": "aiv.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "description": "Used to Apply Classes when they enter the Viewport."
+}
