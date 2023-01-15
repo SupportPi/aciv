@@ -1,5 +1,5 @@
-# aiv
-apply in viewport
+# aciv
+apply classes in viewport
 
 # how to use
 call aiv.init to Start and aiv.kill to end.
